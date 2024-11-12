@@ -18,7 +18,8 @@ The code separates the data into features x and the target variable y.
 
 ![carbon (3)](https://github.com/user-attachments/assets/548e5a4c-765d-44ac-8e79-5f2b39bfcaa5)
 
-•• TXhetraidantaseand yt  is spltrainit wiinll to tbe usraiedning for tranainid testinng theg se modts el,usiwhilng ane x 80test/20and splyit.test are reserved for evaluation. 
+• The dataset is split into training and testing sets using an 80/20 split.
+• x_train and y_train will be used for training the model, while x_test and y_test are reserved for evaluation.
 
 **Building the Neural Network Model:**
 
