@@ -1,12 +1,16 @@
+*Heare is he implementation process of the AI*
+
 **Importing Libraries and Dataset:** python
 
-![](Aspose.Words.4fe01fe1-6d66-4183-ad5b-463b5c1a6ff8.001.png)
+import pandas as pd
+
+dataset = pd.read_csv('cancer.csv')
 
 Here, the code imports the **Pandas** library to handle the dataset. The dataset is loaded from a CSV file named "cancer.csv" 
 
 **Defining Features (x) and Target Variable (y):** python
 
-![](Aspose.Words.4fe01fe1-6d66-4183-ad5b-463b5c1a6ff8.002.png)
+
 
 The code separates the data into features x and the target variable y.
 
