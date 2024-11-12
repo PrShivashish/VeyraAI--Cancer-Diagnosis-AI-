@@ -3,7 +3,7 @@
 
 Import the dataset.
 
-Download and import the dataset from reporsitory
+Download and import the dataset from reporsitory named (cancer.csv)
 """
 
 import pandas as pd
